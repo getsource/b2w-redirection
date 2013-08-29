@@ -110,7 +110,7 @@ function gs_Blogger_To_WordPress_Redirection() {
                     FROM $wpdb->posts wposts, $wpdb->postmeta wpostmeta
                     WHERE wposts.ID = wpostmeta.post_id
                         AND wpostmeta.meta_key = 'blogger_permalink'
-                        AND wpostmeta.meta_value = '%s'",
+                        AND wpostmeta.meta_value = %s",
                 $b2w
             );
 			$wpurl = $wpdb->get_results($sqlstr, ARRAY_N);
