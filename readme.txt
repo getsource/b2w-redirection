@@ -11,7 +11,10 @@ This plugin automates setting up 1-to-1 mapping between Blogger.com (blogspot) b
 
 == Description ==
 
-Forked from http://wordpress.org/plugins/blogger-to-wordpress-redirection/
+Forked from [blogger-to-wordpress-redirection plugin](http://wordpress.org/plugins/blogger-to-wordpress-redirection/) for personal use.
+
+This plugin is likely not to be maintained, so if you require that, I'd suggest checking out the above plugin.
+All of that said, here's the initial description:
 
 If you have imported posts from Blogger.com (blogspot.com) then you might be redirecting visitors from your blog to homepage of your new WordPress blog. Which is wrong, as a user may feel lost when we lands up on your homepage unexpectedly.
 
