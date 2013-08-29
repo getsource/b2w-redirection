@@ -105,7 +105,7 @@ function gs_Blogger_To_WordPress_Redirection() {
                 }
 			}
 
-			$sqlstr = $wpdb->prepare(
+            $sqlstr = $wpdb->prepare(
                 "SELECT wposts.ID, wposts.guid
                     FROM $wpdb->posts wposts, $wpdb->postmeta wpostmeta
                     WHERE wposts.ID = wpostmeta.post_id
