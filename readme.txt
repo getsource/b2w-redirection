@@ -1,5 +1,5 @@
 === Blogger To WordPress Redux ===
-Contributors: DH-Shredder
+Contributors: DH-Shredder, rtcamp, rahul286, rakshit, saurabhshukla, faishal
 Tags: WordPress, Blogger, Traffic, Redirection, Blogspot, Permalink, SEO, rel-canonical, meta-refresh
 Requires at least: 3.6
 Tested up to: 3.6
@@ -12,8 +12,10 @@ This plugin automates setting up 1-to-1 mapping between Blogger.com (blogspot) b
 == Description ==
 
 Forked from [blogger-to-wordpress-redirection plugin](http://wordpress.org/plugins/blogger-to-wordpress-redirection/) for personal use.
+The primary original authors can be found at [RTCamp](http://rtcamp.com/).
 
-This plugin is likely not to be maintained, so if you require that, I'd suggest checking out the above plugin.
+This plugin is likely not to be maintained (it's here solely for personal use), so if you require that, I'd suggest checking out the above plugin and supporting the original authors.
+
 All of that said, here's the initial description:
 
 If you have imported posts from Blogger.com (blogspot.com) then you might be redirecting visitors from your blog to homepage of your new WordPress blog. Which is wrong, as a user may feel lost when we lands up on your homepage unexpectedly.
@@ -61,12 +63,12 @@ You can find [screenshots here](http://rtcamp.com/tutorials/blogger-to-wordpress
 
 = 2.2.1 =
 
-* Fixed redirection for Firefox and other browsers. 
+* Fixed redirection for Firefox and other browsers.
 
 = 2.2 =
 
 * Fixed redirection of mobile template url.
-* Add Warning to keep plugin active for redirection to work 
+* Add Warning to keep plugin active for redirection to work
 
 = 2.1 =
 
